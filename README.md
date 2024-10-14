@@ -27,14 +27,14 @@ For more information about the course and to enroll, visit https://www.udemy.com
 
 ## 👨🏻‍🎓 Beginner
 
--  Day 01](day01): Working with Variables in Python to Manage Data
+- [Day 01](day01): Working with Variables in Python to Manage Data
 - [Day 02](day02): Understanding Data Types and How to Manipulate Strings
 - [Day 03](day03): Control Flow and Logical Operators
 - [Day 04](day04): Randomisation and Python Lists
 - [Day 05](day05): Python Loops
-- [[Day 06](day06): Python Functions & Karel
+- [Day 06](day06): Python Functions & Karel
 - [Day 07](day07): Hangman
-- [[Day 08](day08): Function Parameters & Caesar Cipher
+- [Day 08](day08): Function Parameters & Caesar Cipher
 - [Day 09](day09): Dictionaries, Nesting and the Secret Auction
 - [Day 10](day10): Function Return Values and the Calculator Project
 - [Day 11](day11): Blackjack Capstone Project
